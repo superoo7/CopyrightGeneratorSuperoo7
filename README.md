@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CopyrightGeneratorSuperoo7::Renderer.copyright "Johnson Lai", "All rights reserved"
+```
 
 ## Development
 
